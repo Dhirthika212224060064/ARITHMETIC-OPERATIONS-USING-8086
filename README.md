@@ -28,6 +28,8 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 
 ## FLOW CHART
+
+
 <img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
 
 
@@ -65,6 +67,10 @@ END
       1203:34               c4:1207                                
 
 #### Manual Calculations
+
+
+
+
 
 ![WhatsApp Image 2025-09-14 at 18 17 49_92f244d3](https://github.com/user-attachments/assets/d4833c2e-d6d4-484c-9673-8ea42133d3aa)
 
