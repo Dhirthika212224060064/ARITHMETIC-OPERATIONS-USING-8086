@@ -72,8 +72,7 @@ END
 
 
 
-![WhatsApp Image 2025-09-14 at 18 17 49_92f244d3](https://github.com/user-attachments/assets/d4833c2e-d6d4-484c-9673-8ea42133d3aa)
-
+![WhatsApp Image 2025-09-14 at 18 34 02_f186cfe6](https://github.com/user-attachments/assets/553e6044-8ea9-4f21-970c-60079bc75383)
 
 
 
