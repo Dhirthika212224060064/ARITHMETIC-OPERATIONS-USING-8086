@@ -28,8 +28,6 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 
 ## FLOW CHART
-
-
 <img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
 
 
@@ -57,33 +55,25 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) | DATA (INPUT)             |
 | ----------------------- | ------------------------ |
-| 1200:12 24:1204 |                          |
+|  2000                   |   12                     | 
+|  2001                   |   34                     |
+|  2002                   |   12                     |
+|  2003                   |   34                     |
 
 
-      1201:34               68:1205
-      1202:12               00:1206
-      1203:34               c4:1207                                
+| MEMORY LOCATION (INPUT) | DATA (OUTPUT)            |
+| ----------------------- | ------------------------ |
+|  2004                   |   68                     | 
+|  2005                   |   24                     |
+|  2006                   |   00                     |
 
 #### Manual Calculations
-
-
-
-
-
-![WhatsApp Image 2025-09-14 at 18 34 02_f186cfe6](https://github.com/user-attachments/assets/553e6044-8ea9-4f21-970c-60079bc75383)
-
-
-
-
+<img width="1489" height="1080" alt="image" src="https://github.com/user-attachments/assets/a031cea6-32ef-4353-ad90-43eaef82c316" />
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-
-<img width="310" height="350" alt="image" src="https://github.com/user-attachments/assets/c6a9df00-b986-4312-9ac2-6817c431efba" />
-
-<img width="794" height="470" alt="Screenshot 2025-09-14 173740" src="https://github.com/user-attachments/assets/c2fd3fe0-e55b-4f7b-a1b2-782f12f7cd34" />
-
+<img width="639" height="422" alt="Screenshot 2025-09-12 085412" src="https://github.com/user-attachments/assets/2f69010e-4486-49f0-bdfd-8f4a97d7583d" />
 
 
 ## 2. SUBTRACTION
@@ -125,33 +115,25 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) | DATA (INPUT)             |
 | ----------------------- | ------------------------ |
-|1200:12 24:1204                         |                          |
+|  2000                   |   56                     | 
+|  2001                   |   78                     |
+|  2002                   |   25                     |
+|  2003                   |   34                     |
 
 
-
-      1201:34               68:1205
-      1202:12               00:1206
-      1203:34               c4:1207                              
-
+| MEMORY LOCATION (INPUT) | DATA (OUTPUT)            |
+| ----------------------- | ------------------------ |
+|  2004                   |   31                     | 
+|  2005                   |   44                     |
+|  2006                   |   34                     |
 #### Manual Calculations
-
-![WhatsApp Image 2025-09-14 at 18 17 53_065773eb](https://github.com/user-attachments/assets/fdbb6e44-4cd5-4209-a4d5-4186a1333283)
-
-
-
-
-
+<img width="1573" height="1079" alt="image" src="https://github.com/user-attachments/assets/a8ea44f2-7ae5-4e4a-877c-18b70d75d299" />
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-
-<img width="330" height="375" alt="image" src="https://github.com/user-attachments/assets/5a1887d7-20c4-480c-b4c6-fdae6f15743d" />
-
-
-<img width="788" height="485" alt="Screenshot 2025-09-14 174417" src="https://github.com/user-attachments/assets/afe83421-2f2b-4600-a7fc-13fb95b06514" />
-
+<img width="660" height="441" alt="Screenshot 2025-09-20 085310" src="https://github.com/user-attachments/assets/d6e43fe8-80b2-40e8-9a80-f5985b715bea" />
 
 
 ## 3. MULTIPLICATION
@@ -190,30 +172,25 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) | DATA (INPUT)             |
 | ----------------------- | ------------------------ |
-|  1200:12 24:1204                       |                          |
+|  2000                   |   12                     | 
+|  2001                   |   34                     |
+|  2002                   |   12                     |
+|  2003                   |   34                     |
 
-      1201:34               68:1205
-      1202:12               00:1206
-      1203:34               c4:1207                               
 
+| MEMORY LOCATION (INPUT) | DATA (OUTPUT)            |
+| ----------------------- | ------------------------ |
+|  2004                   |   90                     | 
+|  2005                   |   5A                     |
+|  2006                   |   4B                     |
 #### Manual Calculations
-
-
-![WhatsApp Image 2025-09-14 at 18 17 56_75c7d1cf](https://github.com/user-attachments/assets/598d8dbe-974a-45ec-8aaf-5f2a1501ef1d)
-
+<img width="1600" height="1318" alt="image" src="https://github.com/user-attachments/assets/1bfa5bff-ac6b-4b6d-ba20-8612df301283" />
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-
-<img width="292" height="299" alt="Screenshot 2025-09-14 174853" src="https://github.com/user-attachments/assets/ee20cc79-bbf7-4136-8935-4742dbc394ee" />
-
-
-
-
-<img width="781" height="485" alt="Screenshot 2025-09-14 175008" src="https://github.com/user-attachments/assets/181da87e-693f-4662-9af4-c4e9f997f2c8" />
-
+<img width="641" height="420" alt="Screenshot 2025-09-19 140347" src="https://github.com/user-attachments/assets/4eca69da-9b9c-4aca-9201-2e87602133d6" />
 
 
 ## 4. DIVISION
@@ -249,34 +226,30 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) | DATA (INPUT)             |
 | ----------------------- | ------------------------ |
-|  1200:12 24:1204                       |                          |
+|  2000                   |   68                     | 
+|  2001                   |   24                     |
+|  2002                   |   34                     |
+|  2003                   |   11                     |
 
 
-      1201:34               68:1205
-      1202:12               00:1206
-      1203:34               c4:1207                                
+| MEMORY LOCATION (INPUT) | DATA (OUTPUT)            |
+| ----------------------- | ------------------------ |
+|  2004                   |   00                     | 
+|  2005                   |   02                     |
+|  2006                   |   02                     |
 
 #### Manual Calculations
-
-![WhatsApp Image 2025-09-14 at 18 18 00_d7a9d8e0](https://github.com/user-attachments/assets/471dfa27-0b4a-44a1-9960-d9affb00ab44)
-
-
-
+<img width="1439" height="1080" alt="image" src="https://github.com/user-attachments/assets/0387231b-b8c1-4f81-b43b-a59f0bdd38bd" />
 
 ## OUTPUT FROM MASM SOFTWARE
-
-<img width="284" height="300" alt="Screenshot 2025-09-14 175205" src="https://github.com/user-attachments/assets/1b289f62-8169-4743-b3f1-e7ce87de1a74" />
-
-
-<img width="790" height="479" alt="Screenshot 2025-09-14 175257" src="https://github.com/user-attachments/assets/090f5bf7-c25a-4512-a7a7-f9bbf88a4b95" />
-
-
+<img width="640" height="438" alt="Screenshot 2025-09-20 090533" src="https://github.com/user-attachments/assets/63b8a557-cd78-46c3-b992-2b72cdbb4e93" />
 
 
 
 ## RESULT
 
 Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed using MASM.
+
 
